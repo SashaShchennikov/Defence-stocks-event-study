@@ -29,7 +29,7 @@ I used a simple **event study**:
 | 7 | 18 Aug 2025 | Trump–Putin summit in Alaska (15 Aug) |
 
 ## Results
-![Growth of £1 invested in 2021](growth.png)
+![Growth of £1 invested in 2021](Growth.png)
 
 **3-day abnormal returns (vs DAX):**
 
