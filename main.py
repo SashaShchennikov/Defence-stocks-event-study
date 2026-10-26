@@ -8,7 +8,7 @@ end = "2026-01-01"
 
 tickers = ["RHM.DE", "ba.l", "ho.pa", "ldo.mi", "^gdaxi"]
 
-events = {"invasion":"2022-04-24",
+events = {"invasion":"2022-02-24",
           "zeitenwende":"2022-02-28",
           "kupiansk":"2022-09-12",
           "rearm_europe": "2025-03-04",
